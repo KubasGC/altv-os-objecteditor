@@ -46,3 +46,6 @@ W - change edit to position
 E - change edit to rotation
 
 ```
+
+## Preview
+![image](https://i.imgur.com/Mqiax7z.png "Preview")
