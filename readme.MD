@@ -7,7 +7,7 @@ With this resource you can easily edit props position/rotation in game, using th
 First, install all dependencies
 
 ```
-yarn init
+yarn install
 ```
 
 Then, build client and cef
